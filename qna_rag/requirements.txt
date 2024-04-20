@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchainhub
+langchain-openai
+langchain-chroma
+langchain-nvidia-ai-endpoints
+faiss-cpu
+bs4

@@ -23,3 +23,6 @@ Steps to deploy the model
     ```
 
     You can interact with the document now!!
+
+
+https://github.com/pranjaldoshi96/rag-examples/assets/25930426/60016498-3715-4d94-844b-99711384ad47

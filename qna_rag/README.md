@@ -14,7 +14,7 @@ Steps to deploy the model
 
 3. Ingest Document
     ```
-    python3 qna.py --ingest https://lilianweng.github.io/posts/2023-06-23-agent/
+    python3 qna.py --ingest https://www.crictracker.com/ipl-winners-and-runners-list/
     ```
 
 4. Once the document is ingested, you can interact with it

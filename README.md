@@ -25,7 +25,9 @@ A simple RAG chain which allows you to ask followup questions based on document/
   ```
 - Open the URL in browser, ingest the URL/document of your choice and start chatting with your data
 
-https://github.com/user-attachments/assets/4841d04b-cdb4-4d88-9a05-6b4ab0fcff96
+
+https://github.com/user-attachments/assets/61535442-9e35-4489-b4f7-67f2879e261c
+
 
 
 ## qna-rag

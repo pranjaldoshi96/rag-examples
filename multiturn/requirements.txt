@@ -1,0 +1,10 @@
+langchain-community
+tiktoken
+langchain-nvidia-ai-endpoints
+langchainhub
+chromadb
+langchain
+langgraph
+langchain-text-splitters
+bs4
+streamlit

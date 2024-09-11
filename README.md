@@ -11,6 +11,10 @@ A simple RAG chain which allows you to ask followup questions based on document/
   ```
   export NVIDIA_API_KEY="nvapi-*"
   ```
+- Move to directory
+  ```
+  cd multiturn/
+  ```
 - Install the requirements
   ```
   pip3 install -r requirements.txt

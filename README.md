@@ -2,6 +2,28 @@
 
 This Python repository demonstrates a Retriever-Augmented Generation (RAG) pipeline for document-based question answering
 
+## MultiTurn RAG
+A simple RAG chain which allows you to ask followup questions based on document/url you have ingested.
+
+### Setup the pipeline
+- Get the `NVIDIA_API_KEY` from [NVIDIA API CATALOG](https://build.nvidia.com/)
+- Export the environment variable
+  ```
+  export NVIDIA_API_KEY="nvapi-*"
+  ```
+- Install the requirements
+  ```
+  pip3 install -r requirements.txt
+  ```
+- Run the application
+  ```
+  streamlit run frontend.py
+  ```
+- Open the URL in browser, ingest the URL/document of your choice and start chatting with your data
+
+https://github.com/user-attachments/assets/4841d04b-cdb4-4d88-9a05-6b4ab0fcff96
+
+
 ## qna-rag
 
 A RAG  pipeline that ingest the document from a provided URL and answer question related to document using FAISS as document vectorstore and llama3 70b as llm model.
